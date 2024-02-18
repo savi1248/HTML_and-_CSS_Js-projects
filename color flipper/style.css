@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.text{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.btn{
+    background-color: black;
+    color: #fff;
+    border: none;
+    padding: 10px ;
+    font-size: 15px;
+}

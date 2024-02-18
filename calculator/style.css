@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.container{
+    background-color: black;
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 230px;
+  border-radius: 5px;
+  margin: 50px auto ;
+}
+h1{
+    color: white;
+    margin-bottom: 15px;
+}
+#display{
+     width: 100%;
+     padding: 8px;
+     margin-bottom: 15px;
+}
+.btn{
+    border-radius: 50%;
+    border: none;
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+    background-color: rgb(225, 167, 58);
+   font-weight: 700;
+    color: black;
+}
